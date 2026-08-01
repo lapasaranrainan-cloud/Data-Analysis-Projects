@@ -1,10 +1,10 @@
 # 📊 Data Analysis Projects
-This repository showcases data analysis projects completed using Python, SQL, Excel, and Power BI.
-Below is the complete data analysis workflow, including data cleaning, transformation, analysis, visualization, and insights.
+This repository showcases data analysis projects that I have completed using Python, SQL, Excel, and Power BI.
+Including documentations in the repository are the complete data analysis workflow, including data cleaning, transformation, analysis, visualization, and insights.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Tools Used
 
 - 🐍 Python (Pandas)
 - 🗄️ SQL (MySQL)
@@ -17,7 +17,20 @@ Below is the complete data analysis workflow, including data cleaning, transform
 
 # 📂 Projects
 
-## 📊 Superstore Sales Analysis
+## 📊 Project 1: Superstore Sales Analysis
+
+**Dataset:** Superstore Sales
+
+**Source:** https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data
+
+**Description:** The Sample Superstore dataset contains retail sales transactions from a fictional superstore. It includes information about orders, customers, products, sales, profit, discounts, shipping, and geographic regions.
+
+| Attribute | Details |
+|-----------|---------|
+| **Dataset Name** | Sample Superstore |
+| **Industry** | Retail |
+| **Records** | 9,994 |
+| **Columns** | 21 |
 
 ### 📌 Main Goal of the Project
 
@@ -30,27 +43,24 @@ Below is the complete data analysis workflow, including data cleaning, transform
 **Tools Used:** Python, SQL, Power BI
 
 #### Project Workflow
-- Cleaned and prepared the dataset using Python
-- Imported cleaned data into MySQL
-- Wrote SQL queries for business analysis
-- Built an interactive Power BI dashboard
-- Generated business insights from the data
+1. Clean and prepare the dataset using Python
+2. Import cleaned data into MySQL
+3. Write SQL queries for business analysis
+4. Build an interactive Power BI dashboard
+5. Generate business insights from the data
 
 ## 📈 Dashboard Preview
 
-### Executive Summary
-
-![Dashboard Overview](Dashboard%20Images/Sales%20Performance%20Dashboard.png)
+### Sales Performance
+![Sales Performance](Data%20Analysis%20Projects/Superstore%20Sales/Dashboard%20Images/Sales%20Performance%20Dashboard.png)
 
 ### Product Analysis
-
-![Product Analysis](Dashboard%20Images/Product%20Analysis%20Dashboard.png)
+![Product Analysis](Data%20Analysis%20Projects/Superstore%20Sales/Dashboard%20Images/Product%20Analysis%20Dashboard.png)
 
 ### Customer and Geographic Insights
-
-![Customer and Geographic Insights](Dashboard%20Images/Customer%20and%20Geographic%20Insights.png)
+![Customer and Geographic Insights](Data%20Analysis%20Projects/Superstore%20Sales/Dashboard%20Images/Customer%20and%20Geographic%20Insights.png)
 
 
 ---
 
-⭐ Download Presentation.pbix to view the PowerBI output
+⭐ Download Presentation.pbix to view the PowerBI output. Feel free to give feedbacks :)
