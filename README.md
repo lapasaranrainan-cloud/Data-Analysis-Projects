@@ -40,14 +40,15 @@ Below is the complete data analysis workflow, including data cleaning, transform
 
 ### Executive Summary
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](Dashboard%20Images/Sales%20Performance%20Dashboard.png)
 
 ### Product Analysis
 
-![Product Analysis](images/product-analysis.png)
+![Product Analysis](Dashboard%20Images/Product%20Analysis%20Dashboard.png)
 
 ### Customer and Geographic Insights
-![Customer Analysis](images/customer-analysis.png)
+
+![Customer and Geographic Insights](Dashboard%20Images/Customer%20and%20Geographic%20Insights.png)
 
 
 ---
