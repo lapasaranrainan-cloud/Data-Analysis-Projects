@@ -10,8 +10,7 @@ Including documentations in the repository are the complete data analysis workfl
 - 🗄️ SQL (MySQL)
 - 📊 Microsoft Excel
 - 📈 Power BI
-- 📋 Power Query
-- 📐 DAX
+- 📋 Power Query / DAX
 
 ---
 
