@@ -60,7 +60,6 @@ Including documentations in the repository are the complete data analysis workfl
 ### Customer and Geographic Insights
 ![Customer and Geographic Insights](Data%20Analysis%20Projects/Superstore%20Sales/Dashboard%20Images/Customer%20and%20Geographic%20Insights.png)
 
-
 ---
 
 ⭐ Download Presentation.pbix to view the PowerBI output. Feel free to give feedbacks :)
