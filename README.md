@@ -32,6 +32,7 @@ Including documentations in the repository are the complete data analysis workfl
 | **Records** | 9,994 |
 | **Columns** | 21 |
 
+
 ### 📌 Main Goal of the Project
 
 - Identify top-performing products
@@ -62,4 +63,83 @@ Including documentations in the repository are the complete data analysis workfl
 
 ---
 
-⭐ Download Presentation.pbix to view the PowerBI output. Feel free to give feedbacks :)
+⭐Note: Download Presentation.pbix to view the Power BI output. Feel free to give feedbacks :)
+
+---
+
+## 🏡 Project 2: House Price Prediction Using Multiple Linear Regression
+
+**Dataset:** King County House Sales
+
+**Source:** https://www.kaggle.com/code/divan0/multiple-linear-regression/input
+
+**Description:** The King County House Sales dataset contains residential property sales in King County, Washington, USA. It includes property characteristics such as living area, number of bedrooms and bathrooms, condition, grade, waterfront status, and selling price.
+
+| Attribute | Details |
+|-----------|---------|
+| **Dataset Name** | King County House Sales |
+| **Industry** | Real Estate |
+| **Records** | 21,605 |
+| **Columns** | 21 |
+| **Dependent Variable** | Price |
+
+## 📌 Main Goal of the Project
+
+- Identify the factors that significantly influence house prices
+- Build a Multiple Linear Regression model
+- Evaluate regression assumptions and model performance
+- Generate insights to support real estate decision-making
+
+**Tools Used:** Python, JASP, Excel
+
+## 🛠 Project Workflow
+
+1. Clean and preprocess the dataset using Python and Excel
+2. Perform exploratory data analysis (EDA)
+3. Build a Multiple Linear Regression model in JASP
+4. Validate model assumptions (VIF, Durbin-Watson, residual analysis)
+5. Summarize key findings and recommendations
+
+## 📊 Model Performance
+
+| Metric | Value |
+|--------|------:|
+| R² | **0.650** |
+| Adjusted R² | **0.650** |
+| F-statistic | **3644.049** |
+| p-value | **< 0.001** |
+| Durbin-Watson | **1.715** |
+
+## 📈 Key Findings
+
+- Living area is the strongest predictor of house price.
+- Houses with higher construction grades generally sell for more.
+- Waterfront properties command higher prices.
+- Better property views are associated with higher market values.
+- The regression model explains approximately **65%** of the variation in house prices.
+
+---
+
+## 🖼 Project Preview
+
+### Correlation Heatmap
+
+![Correlation Heatmap](Data%20Analysis%20Projects/Multiple%20Linear%20Regression/Visuals/Correlation%20Heatmap.png)
+
+### Multiple Linear Regression Output
+
+![Model_Performance](Data%20Analysis%20Projects/Multiple%20Linear%20Regression/Visuals/Summary%20ANOVA.png)
+
+
+![Descriptive_Statistics](Data%20Analysis%20Projects/Multiple%20Linear%20Regression/Visuals/Descriptive%20Statistics.png)
+
+
+### Regression Coefficients
+
+![Regression Coefficients](Data%20Analysis%20Projects/Multiple%20Linear%20Regression/Visuals/Coefficients.png)
+
+---
+
+⭐Note: Download House Sales Price - Multiple Linear Regression.jasp to view the statistical output. Feel free to give feedbacks :)
+
+---
