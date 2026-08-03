@@ -125,7 +125,7 @@ Including documentations in the repository are the complete data analysis workfl
 
 ![Correlation Heatmap](Data%20Analysis%20Projects/Multiple%20Linear%20Regression/Visuals/Correlation%20Heatmap.png)
 
-### Multiple Linear Regression Output
+### Model Validation and Descriptives
 
 ![Model_Performance](Data%20Analysis%20Projects/Multiple%20Linear%20Regression/Visuals/Summary%20ANOVA.png)
 
@@ -133,9 +133,13 @@ Including documentations in the repository are the complete data analysis workfl
 ![Descriptive_Statistics](Data%20Analysis%20Projects/Multiple%20Linear%20Regression/Visuals/Descriptive%20Statistics.png)
 
 
-### Regression Coefficients
+### Regression Model
 
 ![Regression Coefficients](Data%20Analysis%20Projects/Multiple%20Linear%20Regression/Visuals/Coefficients.png)
+
+Price = β₀ + β₁(Bathrooms) + β₂(Sqft Living) + β₃(Sqft Lot) + β₄(Floors) + β₅(Waterfront) + β₆(View) + β₇(Condition) + β₈(Grade) + β₉(Year Built) + β₁₀(Year Renovated) + β₁₁(Bedrooms)
+
+Where in each underlying Beta variables are the unstandardized regression coefficients.
 
 ---
 
